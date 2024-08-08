@@ -22,7 +22,13 @@ The sole purpose of collecting this information is to allow you to tip users you
 
 ## Data Sharing and Analysis
 
-We do not sell, share, or analyze your personal information or web history data in any way. Your data is solely used for the functionality of the extension.
+We **do not** sell or share your personal information or web history data in any way. Your data is solely used for the functionality of the extension.
+
+
+Anonymized data is analyzed to understand the use of the extension (for example, the number of tips given). This is analyzed using the [MixPanel service](https://mixpanel.com).
+
+
+Anonymized data may be used in case of a crash or error. This is analyzed using [Sentry service](https://sentry.io).
 
 ## Data Security
 
